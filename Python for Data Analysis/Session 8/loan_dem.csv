@@ -1,0 +1,615 @@
+,Loan_ID,Gender,Married,Dependents,Education
+0,LP001002,1,No,0,Graduate
+1,LP001003,1,Yes,1,Graduate
+2,LP001005,1,Yes,0,Graduate
+3,LP001006,1,Yes,0,Not Graduate
+4,LP001008,1,No,0,Graduate
+5,LP001011,1,Yes,2,Graduate
+6,LP001013,1,Yes,0,Not Graduate
+7,LP001014,1,Yes,3+,Graduate
+8,LP001018,1,Yes,2,Graduate
+9,LP001020,1,Yes,1,Graduate
+10,LP001024,1,Yes,2,Graduate
+11,LP001027,1,Yes,2,Graduate
+12,LP001028,1,Yes,2,Graduate
+13,LP001029,1,No,0,Graduate
+14,LP001030,1,Yes,2,Graduate
+15,LP001032,1,No,0,Graduate
+16,LP001034,1,No,1,Not Graduate
+17,LP001036,0,No,0,Graduate
+18,LP001038,1,Yes,0,Not Graduate
+19,LP001041,1,Yes,0,Graduate
+20,LP001043,1,Yes,0,Not Graduate
+21,LP001046,1,Yes,1,Graduate
+22,LP001047,1,Yes,0,Not Graduate
+23,LP001050,0,Yes,2,Not Graduate
+24,LP001052,1,Yes,1,Graduate
+25,LP001066,1,Yes,0,Graduate
+26,LP001068,1,Yes,0,Graduate
+27,LP001073,1,Yes,2,Not Graduate
+28,LP001086,1,No,0,Not Graduate
+29,LP001087,0,No,2,Graduate
+30,LP001091,1,Yes,1,Graduate
+31,LP001095,1,No,0,Graduate
+32,LP001097,1,No,1,Graduate
+33,LP001098,1,Yes,0,Graduate
+34,LP001100,1,No,3+,Graduate
+35,LP001106,1,Yes,0,Graduate
+36,LP001109,1,Yes,0,Graduate
+37,LP001112,0,Yes,0,Graduate
+38,LP001114,1,No,0,Graduate
+39,LP001116,1,No,0,Not Graduate
+40,LP001119,1,No,0,Graduate
+41,LP001120,1,No,0,Graduate
+42,LP001123,1,Yes,0,Graduate
+43,LP001131,1,Yes,0,Graduate
+44,LP001136,1,Yes,0,Not Graduate
+45,LP001137,0,No,0,Graduate
+46,LP001138,1,Yes,1,Graduate
+47,LP001144,1,Yes,0,Graduate
+48,LP001146,0,Yes,0,Graduate
+49,LP001151,0,No,0,Graduate
+50,LP001155,0,Yes,0,Not Graduate
+51,LP001157,0,No,0,Graduate
+52,LP001164,0,No,0,Graduate
+53,LP001179,1,Yes,2,Graduate
+54,LP001186,0,Yes,1,Graduate
+55,LP001194,1,Yes,2,Graduate
+56,LP001195,1,Yes,0,Graduate
+57,LP001197,1,Yes,0,Graduate
+58,LP001198,1,Yes,1,Graduate
+59,LP001199,1,Yes,2,Not Graduate
+60,LP001205,1,Yes,0,Graduate
+61,LP001206,1,Yes,3+,Graduate
+62,LP001207,1,Yes,0,Not Graduate
+63,LP001213,1,Yes,1,Graduate
+64,LP001222,0,No,0,Graduate
+65,LP001225,1,Yes,0,Graduate
+66,LP001228,1,No,0,Not Graduate
+67,LP001233,1,Yes,1,Graduate
+68,LP001238,1,Yes,3+,Not Graduate
+69,LP001241,0,No,0,Graduate
+70,LP001243,1,Yes,0,Graduate
+71,LP001245,1,Yes,2,Not Graduate
+72,LP001248,1,No,0,Graduate
+73,LP001250,1,Yes,3+,Not Graduate
+74,LP001253,1,Yes,3+,Graduate
+75,LP001255,1,No,0,Graduate
+76,LP001256,1,No,0,Graduate
+77,LP001259,1,Yes,1,Graduate
+78,LP001263,1,Yes,3+,Graduate
+79,LP001264,1,Yes,3+,Not Graduate
+80,LP001265,0,No,0,Graduate
+81,LP001266,1,Yes,1,Graduate
+82,LP001267,0,Yes,2,Graduate
+83,LP001273,1,Yes,0,Graduate
+84,LP001275,1,Yes,1,Graduate
+85,LP001279,1,No,0,Graduate
+86,LP001280,1,Yes,2,Not Graduate
+87,LP001282,1,Yes,0,Graduate
+88,LP001289,1,No,0,Graduate
+89,LP001310,1,Yes,0,Graduate
+90,LP001316,1,Yes,0,Graduate
+91,LP001318,1,Yes,2,Graduate
+92,LP001319,1,Yes,2,Not Graduate
+93,LP001322,1,No,0,Graduate
+94,LP001325,1,No,0,Not Graduate
+95,LP001326,1,No,0,Graduate
+96,LP001327,0,Yes,0,Graduate
+97,LP001333,1,Yes,0,Graduate
+98,LP001334,1,Yes,0,Not Graduate
+99,LP001343,1,Yes,0,Graduate
+100,LP001345,1,Yes,2,Not Graduate
+101,LP001349,1,No,0,Graduate
+102,LP001350,1,Yes,,Graduate
+103,LP001356,1,Yes,0,Graduate
+104,LP001357,1,,,Graduate
+105,LP001367,1,Yes,1,Graduate
+106,LP001369,1,Yes,2,Graduate
+107,LP001370,1,No,0,Not Graduate
+108,LP001379,1,Yes,2,Graduate
+109,LP001384,1,Yes,3+,Not Graduate
+110,LP001385,1,No,0,Graduate
+111,LP001387,0,Yes,0,Graduate
+112,LP001391,1,Yes,0,Not Graduate
+113,LP001392,0,No,1,Graduate
+114,LP001398,1,No,0,Graduate
+115,LP001401,1,Yes,1,Graduate
+116,LP001404,0,Yes,0,Graduate
+117,LP001405,1,Yes,1,Graduate
+118,LP001421,1,Yes,0,Graduate
+119,LP001422,0,No,0,Graduate
+120,LP001426,1,Yes,,Graduate
+121,LP001430,0,No,0,Graduate
+122,LP001431,0,No,0,Graduate
+123,LP001432,1,Yes,2,Graduate
+124,LP001439,1,Yes,0,Not Graduate
+125,LP001443,0,No,0,Graduate
+126,LP001448,0,Yes,3+,Graduate
+127,LP001449,1,No,0,Graduate
+128,LP001451,1,Yes,1,Graduate
+129,LP001465,1,Yes,0,Graduate
+130,LP001469,1,No,0,Graduate
+131,LP001473,1,No,0,Graduate
+132,LP001478,1,No,0,Graduate
+133,LP001482,1,Yes,0,Graduate
+134,LP001487,1,No,0,Graduate
+135,LP001488,1,Yes,3+,Graduate
+136,LP001489,0,Yes,0,Graduate
+137,LP001491,1,Yes,2,Graduate
+138,LP001492,1,No,0,Graduate
+139,LP001493,1,Yes,2,Not Graduate
+140,LP001497,1,Yes,2,Graduate
+141,LP001498,1,No,0,Graduate
+142,LP001504,1,No,0,Graduate
+143,LP001507,1,Yes,0,Graduate
+144,LP001508,1,Yes,2,Graduate
+145,LP001514,0,Yes,0,Graduate
+146,LP001516,0,Yes,2,Graduate
+147,LP001518,1,Yes,1,Graduate
+148,LP001519,0,No,0,Graduate
+149,LP001520,1,Yes,0,Graduate
+150,LP001528,1,No,0,Graduate
+151,LP001529,1,Yes,0,Graduate
+152,LP001531,1,No,0,Graduate
+153,LP001532,1,Yes,2,Not Graduate
+154,LP001535,1,No,0,Graduate
+155,LP001536,1,Yes,3+,Graduate
+156,LP001541,1,Yes,1,Graduate
+157,LP001543,1,Yes,1,Graduate
+158,LP001546,1,No,0,Graduate
+159,LP001552,1,Yes,0,Graduate
+160,LP001560,1,Yes,0,Not Graduate
+161,LP001562,1,Yes,0,Graduate
+162,LP001565,1,Yes,1,Graduate
+163,LP001570,1,Yes,2,Graduate
+164,LP001572,1,Yes,0,Graduate
+165,LP001574,1,Yes,0,Graduate
+166,LP001577,0,Yes,0,Graduate
+167,LP001578,1,Yes,0,Graduate
+168,LP001579,1,No,0,Graduate
+169,LP001580,1,Yes,2,Graduate
+170,LP001581,1,Yes,0,Not Graduate
+171,LP001585,0,Yes,3+,Graduate
+172,LP001586,1,Yes,3+,Not Graduate
+173,LP001594,1,Yes,0,Graduate
+174,LP001603,1,Yes,0,Not Graduate
+175,LP001606,1,Yes,0,Graduate
+176,LP001608,1,Yes,2,Graduate
+177,LP001610,1,Yes,3+,Graduate
+178,LP001616,1,Yes,1,Graduate
+179,LP001630,1,No,0,Not Graduate
+180,LP001633,1,Yes,1,Graduate
+181,LP001634,1,No,0,Graduate
+182,LP001636,1,Yes,0,Graduate
+183,LP001637,1,Yes,1,Graduate
+184,LP001639,0,Yes,0,Graduate
+185,LP001640,1,Yes,0,Graduate
+186,LP001641,1,Yes,1,Graduate
+187,LP001643,1,Yes,0,Graduate
+188,LP001644,0,Yes,0,Graduate
+189,LP001647,1,Yes,0,Graduate
+190,LP001653,1,No,0,Not Graduate
+191,LP001656,1,No,0,Graduate
+192,LP001657,1,Yes,0,Not Graduate
+193,LP001658,1,No,0,Graduate
+194,LP001664,1,No,0,Graduate
+195,LP001665,1,Yes,1,Graduate
+196,LP001666,1,No,0,Graduate
+197,LP001669,0,No,0,Not Graduate
+198,LP001671,0,Yes,0,Graduate
+199,LP001673,1,No,0,Graduate
+200,LP001674,1,Yes,1,Not Graduate
+201,LP001677,1,No,2,Graduate
+202,LP001682,1,Yes,3+,Not Graduate
+203,LP001688,1,Yes,1,Not Graduate
+204,LP001691,1,Yes,2,Not Graduate
+205,LP001692,0,No,0,Not Graduate
+206,LP001693,0,No,0,Graduate
+207,LP001698,1,No,0,Not Graduate
+208,LP001699,1,No,0,Graduate
+209,LP001702,1,No,0,Graduate
+210,LP001708,0,No,0,Graduate
+211,LP001711,1,Yes,3+,Graduate
+212,LP001713,1,Yes,1,Graduate
+213,LP001715,1,Yes,3+,Not Graduate
+214,LP001716,1,Yes,0,Graduate
+215,LP001720,1,Yes,3+,Not Graduate
+216,LP001722,1,Yes,0,Graduate
+217,LP001726,1,Yes,0,Graduate
+218,LP001732,1,Yes,2,Graduate
+219,LP001734,0,Yes,2,Graduate
+220,LP001736,1,Yes,0,Graduate
+221,LP001743,1,Yes,2,Graduate
+222,LP001744,1,No,0,Graduate
+223,LP001749,1,Yes,0,Graduate
+224,LP001750,1,Yes,0,Graduate
+225,LP001751,1,Yes,0,Graduate
+226,LP001754,1,Yes,,Not Graduate
+227,LP001758,1,Yes,2,Graduate
+228,LP001760,1,,,Graduate
+229,LP001761,1,No,0,Graduate
+230,LP001765,1,Yes,1,Graduate
+231,LP001768,1,Yes,0,Graduate
+232,LP001770,1,No,0,Not Graduate
+233,LP001776,0,No,0,Graduate
+234,LP001778,1,Yes,1,Graduate
+235,LP001784,1,Yes,1,Graduate
+236,LP001786,1,Yes,0,Graduate
+237,LP001788,0,No,0,Graduate
+238,LP001790,0,No,1,Graduate
+239,LP001792,1,Yes,1,Graduate
+240,LP001798,1,Yes,2,Graduate
+241,LP001800,1,Yes,1,Not Graduate
+242,LP001806,1,No,0,Graduate
+243,LP001807,1,Yes,2,Graduate
+244,LP001811,1,Yes,0,Not Graduate
+245,LP001813,1,No,0,Graduate
+246,LP001814,1,Yes,2,Graduate
+247,LP001819,1,Yes,1,Not Graduate
+248,LP001824,1,Yes,1,Graduate
+249,LP001825,1,Yes,0,Graduate
+250,LP001835,1,Yes,0,Not Graduate
+251,LP001836,0,No,2,Graduate
+252,LP001841,1,No,0,Not Graduate
+253,LP001843,1,Yes,1,Not Graduate
+254,LP001844,1,No,0,Graduate
+255,LP001846,0,No,3+,Graduate
+256,LP001849,1,No,0,Not Graduate
+257,LP001854,1,Yes,3+,Graduate
+258,LP001859,1,Yes,0,Graduate
+259,LP001864,1,Yes,3+,Not Graduate
+260,LP001865,1,Yes,1,Graduate
+261,LP001868,1,No,0,Graduate
+262,LP001870,0,No,1,Graduate
+263,LP001871,0,No,0,Graduate
+264,LP001872,1,No,0,Graduate
+265,LP001875,1,No,0,Graduate
+266,LP001877,1,Yes,2,Graduate
+267,LP001882,1,Yes,3+,Graduate
+268,LP001883,0,No,0,Graduate
+269,LP001884,0,No,1,Graduate
+270,LP001888,0,No,0,Graduate
+271,LP001891,1,Yes,0,Graduate
+272,LP001892,1,No,0,Graduate
+273,LP001894,1,Yes,0,Graduate
+274,LP001896,1,Yes,2,Graduate
+275,LP001900,1,Yes,1,Graduate
+276,LP001903,1,Yes,0,Graduate
+277,LP001904,1,Yes,0,Graduate
+278,LP001907,1,Yes,0,Graduate
+279,LP001908,0,Yes,0,Not Graduate
+280,LP001910,1,No,1,Not Graduate
+281,LP001914,1,Yes,0,Graduate
+282,LP001915,1,Yes,2,Graduate
+283,LP001917,0,No,0,Graduate
+284,LP001922,1,Yes,0,Graduate
+285,LP001924,1,No,0,Graduate
+286,LP001925,0,No,0,Graduate
+287,LP001926,1,Yes,0,Graduate
+288,LP001931,0,No,0,Graduate
+289,LP001935,1,No,0,Graduate
+290,LP001936,1,Yes,0,Graduate
+291,LP001938,1,Yes,2,Graduate
+292,LP001940,1,Yes,2,Graduate
+293,LP001945,0,No,,Graduate
+294,LP001947,1,Yes,0,Graduate
+295,LP001949,1,Yes,3+,Graduate
+296,LP001953,1,Yes,1,Graduate
+297,LP001954,0,Yes,1,Graduate
+298,LP001955,0,No,0,Graduate
+299,LP001963,1,Yes,1,Graduate
+300,LP001964,1,Yes,0,Not Graduate
+301,LP001972,1,Yes,,Not Graduate
+302,LP001974,0,No,0,Graduate
+303,LP001977,1,Yes,1,Graduate
+304,LP001978,1,No,0,Graduate
+305,LP001990,1,No,0,Not Graduate
+306,LP001993,0,No,0,Graduate
+307,LP001994,0,No,0,Graduate
+308,LP001996,1,No,0,Graduate
+309,LP001998,1,Yes,2,Not Graduate
+310,LP002002,0,No,0,Graduate
+311,LP002004,1,No,0,Not Graduate
+312,LP002006,0,No,0,Graduate
+313,LP002008,1,Yes,2,Graduate
+314,LP002024,0,Yes,0,Graduate
+315,LP002031,1,Yes,1,Not Graduate
+316,LP002035,1,Yes,2,Graduate
+317,LP002036,1,Yes,0,Graduate
+318,LP002043,0,No,1,Graduate
+319,LP002050,1,Yes,1,Graduate
+320,LP002051,1,Yes,0,Graduate
+321,LP002053,1,Yes,3+,Graduate
+322,LP002054,1,Yes,2,Not Graduate
+323,LP002055,0,No,0,Graduate
+324,LP002065,1,Yes,3+,Graduate
+325,LP002067,1,Yes,1,Graduate
+326,LP002068,1,No,0,Graduate
+327,LP002082,1,Yes,0,Graduate
+328,LP002086,0,Yes,0,Graduate
+329,LP002087,0,No,0,Graduate
+330,LP002097,1,No,1,Graduate
+331,LP002098,1,No,0,Graduate
+332,LP002100,1,No,,Graduate
+333,LP002101,1,Yes,0,Graduate
+334,LP002103,0,Yes,1,Graduate
+335,LP002106,1,Yes,,Graduate
+336,LP002110,1,Yes,1,Graduate
+337,LP002112,1,Yes,2,Graduate
+338,LP002113,0,No,3+,Not Graduate
+339,LP002114,0,No,0,Graduate
+340,LP002115,1,Yes,3+,Not Graduate
+341,LP002116,0,No,0,Graduate
+342,LP002119,1,Yes,1,Not Graduate
+343,LP002126,1,Yes,3+,Not Graduate
+344,LP002128,1,Yes,2,Graduate
+345,LP002129,1,Yes,0,Graduate
+346,LP002130,1,Yes,,Not Graduate
+347,LP002131,1,Yes,2,Not Graduate
+348,LP002137,1,Yes,0,Graduate
+349,LP002138,1,Yes,0,Graduate
+350,LP002139,1,Yes,0,Graduate
+351,LP002140,1,No,0,Graduate
+352,LP002141,1,Yes,3+,Graduate
+353,LP002142,0,Yes,0,Graduate
+354,LP002143,0,Yes,0,Graduate
+355,LP002144,0,No,,Graduate
+356,LP002149,1,Yes,2,Graduate
+357,LP002151,1,Yes,1,Graduate
+358,LP002158,1,Yes,0,Not Graduate
+359,LP002160,1,Yes,3+,Graduate
+360,LP002161,0,No,1,Graduate
+361,LP002170,1,Yes,2,Graduate
+362,LP002175,1,Yes,0,Graduate
+363,LP002178,1,Yes,0,Graduate
+364,LP002180,1,No,0,Graduate
+365,LP002181,1,No,0,Not Graduate
+366,LP002187,1,No,0,Graduate
+367,LP002188,1,No,0,Graduate
+368,LP002190,1,Yes,1,Graduate
+369,LP002191,1,Yes,0,Graduate
+370,LP002194,0,No,0,Graduate
+371,LP002197,1,Yes,2,Graduate
+372,LP002201,1,Yes,2,Graduate
+373,LP002205,1,No,1,Graduate
+374,LP002209,0,No,0,Graduate
+375,LP002211,1,Yes,0,Graduate
+376,LP002219,1,Yes,3+,Graduate
+377,LP002223,1,Yes,0,Graduate
+378,LP002224,1,No,0,Graduate
+379,LP002225,1,Yes,2,Graduate
+380,LP002226,1,Yes,0,Graduate
+381,LP002229,1,No,0,Graduate
+382,LP002231,0,No,0,Graduate
+383,LP002234,1,No,0,Graduate
+384,LP002236,1,Yes,2,Graduate
+385,LP002237,1,No,1,Graduate
+386,LP002239,1,No,0,Not Graduate
+387,LP002243,1,Yes,0,Not Graduate
+388,LP002244,1,Yes,0,Graduate
+389,LP002250,1,Yes,0,Graduate
+390,LP002255,1,No,3+,Graduate
+391,LP002262,1,Yes,3+,Graduate
+392,LP002263,1,Yes,0,Graduate
+393,LP002265,1,Yes,2,Not Graduate
+394,LP002266,1,Yes,2,Graduate
+395,LP002272,1,Yes,2,Graduate
+396,LP002277,0,No,0,Graduate
+397,LP002281,1,Yes,0,Graduate
+398,LP002284,1,No,0,Not Graduate
+399,LP002287,0,No,0,Graduate
+400,LP002288,1,Yes,2,Not Graduate
+401,LP002296,1,No,0,Not Graduate
+402,LP002297,1,No,0,Graduate
+403,LP002300,0,No,0,Not Graduate
+404,LP002301,0,No,0,Graduate
+405,LP002305,0,No,0,Graduate
+406,LP002308,1,Yes,0,Not Graduate
+407,LP002314,0,No,0,Not Graduate
+408,LP002315,1,Yes,1,Graduate
+409,LP002317,1,Yes,3+,Graduate
+410,LP002318,0,No,1,Not Graduate
+411,LP002319,1,Yes,0,Graduate
+412,LP002328,1,Yes,0,Not Graduate
+413,LP002332,1,Yes,0,Not Graduate
+414,LP002335,0,Yes,0,Not Graduate
+415,LP002337,0,No,0,Graduate
+416,LP002341,0,No,1,Graduate
+417,LP002342,1,Yes,2,Graduate
+418,LP002345,1,Yes,0,Graduate
+419,LP002347,1,Yes,0,Graduate
+420,LP002348,1,Yes,0,Graduate
+421,LP002357,0,No,0,Not Graduate
+422,LP002361,1,Yes,0,Graduate
+423,LP002362,1,Yes,1,Graduate
+424,LP002364,1,Yes,0,Graduate
+425,LP002366,1,Yes,0,Graduate
+426,LP002367,0,No,1,Not Graduate
+427,LP002368,1,Yes,2,Graduate
+428,LP002369,1,Yes,0,Graduate
+429,LP002370,1,No,0,Not Graduate
+430,LP002377,0,No,1,Graduate
+431,LP002379,1,No,0,Graduate
+432,LP002386,1,No,0,Graduate
+433,LP002387,1,Yes,0,Graduate
+434,LP002390,1,No,0,Graduate
+435,LP002393,0,,,Graduate
+436,LP002398,1,No,0,Graduate
+437,LP002401,1,Yes,0,Graduate
+438,LP002403,1,No,0,Graduate
+439,LP002407,0,Yes,0,Not Graduate
+440,LP002408,1,No,0,Graduate
+441,LP002409,1,Yes,0,Graduate
+442,LP002418,1,No,3+,Not Graduate
+443,LP002422,1,No,1,Graduate
+444,LP002424,1,Yes,0,Graduate
+445,LP002429,1,Yes,1,Graduate
+446,LP002434,1,Yes,2,Not Graduate
+447,LP002435,1,Yes,0,Graduate
+448,LP002443,1,Yes,2,Graduate
+449,LP002444,1,No,1,Not Graduate
+450,LP002446,1,Yes,2,Not Graduate
+451,LP002447,1,Yes,2,Not Graduate
+452,LP002448,1,Yes,0,Graduate
+453,LP002449,1,Yes,0,Graduate
+454,LP002453,1,No,0,Graduate
+455,LP002455,1,Yes,2,Graduate
+456,LP002459,1,Yes,0,Graduate
+457,LP002467,1,Yes,0,Graduate
+458,LP002472,1,No,2,Graduate
+459,LP002473,1,Yes,0,Graduate
+460,LP002478,0,Yes,0,Graduate
+461,LP002484,1,Yes,3+,Graduate
+462,LP002487,1,Yes,0,Graduate
+463,LP002489,0,No,1,Not Graduate
+464,LP002493,1,No,0,Graduate
+465,LP002494,1,No,0,Graduate
+466,LP002500,1,Yes,3+,Not Graduate
+467,LP002501,0,Yes,0,Graduate
+468,LP002502,0,Yes,2,Not Graduate
+469,LP002505,1,Yes,0,Graduate
+470,LP002515,1,Yes,1,Graduate
+471,LP002517,1,Yes,1,Not Graduate
+472,LP002519,1,Yes,3+,Graduate
+473,LP002522,0,No,0,Graduate
+474,LP002524,1,No,2,Graduate
+475,LP002527,1,Yes,2,Graduate
+476,LP002529,1,Yes,2,Graduate
+477,LP002530,0,Yes,2,Graduate
+478,LP002531,1,Yes,1,Graduate
+479,LP002533,1,Yes,2,Graduate
+480,LP002534,0,No,0,Not Graduate
+481,LP002536,1,Yes,3+,Not Graduate
+482,LP002537,1,Yes,0,Graduate
+483,LP002541,1,Yes,0,Graduate
+484,LP002543,1,Yes,2,Graduate
+485,LP002544,1,Yes,1,Not Graduate
+486,LP002545,1,No,2,Graduate
+487,LP002547,1,Yes,1,Graduate
+488,LP002555,1,Yes,2,Graduate
+489,LP002556,1,No,0,Graduate
+490,LP002560,1,No,0,Not Graduate
+491,LP002562,1,Yes,1,Not Graduate
+492,LP002571,1,No,0,Not Graduate
+493,LP002582,0,No,0,Not Graduate
+494,LP002585,1,Yes,0,Graduate
+495,LP002586,0,Yes,1,Graduate
+496,LP002587,1,Yes,0,Not Graduate
+497,LP002588,1,Yes,0,Graduate
+498,LP002600,1,Yes,1,Graduate
+499,LP002602,1,No,0,Graduate
+500,LP002603,0,No,0,Graduate
+501,LP002606,0,No,0,Graduate
+502,LP002615,1,Yes,2,Graduate
+503,LP002618,1,Yes,1,Not Graduate
+504,LP002619,1,Yes,0,Not Graduate
+505,LP002622,1,Yes,2,Graduate
+506,LP002624,1,Yes,0,Graduate
+507,LP002625,0,No,0,Graduate
+508,LP002626,1,Yes,0,Graduate
+509,LP002634,0,No,1,Graduate
+510,LP002637,1,No,0,Not Graduate
+511,LP002640,1,Yes,1,Graduate
+512,LP002643,1,Yes,2,Graduate
+513,LP002648,1,Yes,0,Graduate
+514,LP002652,1,No,0,Graduate
+515,LP002659,1,Yes,3+,Graduate
+516,LP002670,0,Yes,2,Graduate
+517,LP002682,1,Yes,,Not Graduate
+518,LP002683,1,No,0,Graduate
+519,LP002684,0,No,0,Not Graduate
+520,LP002689,1,Yes,2,Not Graduate
+521,LP002690,1,No,0,Graduate
+522,LP002692,1,Yes,3+,Graduate
+523,LP002693,1,Yes,2,Graduate
+524,LP002697,1,No,0,Graduate
+525,LP002699,1,Yes,2,Graduate
+526,LP002705,1,Yes,0,Graduate
+527,LP002706,1,Yes,1,Not Graduate
+528,LP002714,1,No,1,Not Graduate
+529,LP002716,1,No,0,Not Graduate
+530,LP002717,1,Yes,0,Graduate
+531,LP002720,1,Yes,3+,Graduate
+532,LP002723,1,No,2,Graduate
+533,LP002729,1,No,1,Graduate
+534,LP002731,0,No,0,Not Graduate
+535,LP002732,1,No,0,Not Graduate
+536,LP002734,1,Yes,0,Graduate
+537,LP002738,1,No,2,Graduate
+538,LP002739,1,Yes,0,Not Graduate
+539,LP002740,1,Yes,3+,Graduate
+540,LP002741,0,Yes,1,Graduate
+541,LP002743,0,No,0,Graduate
+542,LP002753,0,No,1,Graduate
+543,LP002755,1,Yes,1,Not Graduate
+544,LP002757,0,Yes,0,Not Graduate
+545,LP002767,1,Yes,0,Graduate
+546,LP002768,1,No,0,Not Graduate
+547,LP002772,1,No,0,Graduate
+548,LP002776,0,No,0,Graduate
+549,LP002777,1,Yes,0,Graduate
+550,LP002778,1,Yes,2,Graduate
+551,LP002784,1,Yes,1,Not Graduate
+552,LP002785,1,Yes,1,Graduate
+553,LP002788,1,Yes,0,Not Graduate
+554,LP002789,1,Yes,0,Graduate
+555,LP002792,1,Yes,1,Graduate
+556,LP002794,0,No,0,Graduate
+557,LP002795,1,Yes,3+,Graduate
+558,LP002798,1,Yes,0,Graduate
+559,LP002804,0,Yes,0,Graduate
+560,LP002807,1,Yes,2,Not Graduate
+561,LP002813,0,Yes,1,Graduate
+562,LP002820,1,Yes,0,Graduate
+563,LP002821,1,No,0,Not Graduate
+564,LP002832,1,Yes,2,Graduate
+565,LP002833,1,Yes,0,Not Graduate
+566,LP002836,1,No,0,Graduate
+567,LP002837,1,Yes,3+,Graduate
+568,LP002840,0,No,0,Graduate
+569,LP002841,1,Yes,0,Graduate
+570,LP002842,1,Yes,1,Graduate
+571,LP002847,1,Yes,,Graduate
+572,LP002855,1,Yes,2,Graduate
+573,LP002862,1,Yes,2,Not Graduate
+574,LP002863,1,Yes,3+,Graduate
+575,LP002868,1,Yes,2,Graduate
+576,LP002872,0,Yes,0,Graduate
+577,LP002874,1,No,0,Graduate
+578,LP002877,1,Yes,1,Graduate
+579,LP002888,1,No,0,Graduate
+580,LP002892,1,Yes,2,Graduate
+581,LP002893,1,No,0,Graduate
+582,LP002894,0,Yes,0,Graduate
+583,LP002898,1,Yes,1,Graduate
+584,LP002911,1,Yes,1,Graduate
+585,LP002912,1,Yes,1,Graduate
+586,LP002916,1,Yes,0,Graduate
+587,LP002917,0,No,0,Not Graduate
+588,LP002925,0,No,0,Graduate
+589,LP002926,1,Yes,2,Graduate
+590,LP002928,1,Yes,0,Graduate
+591,LP002931,1,Yes,2,Graduate
+592,LP002933,0,No,3+,Graduate
+593,LP002936,1,Yes,0,Graduate
+594,LP002938,1,Yes,0,Graduate
+595,LP002940,1,No,0,Not Graduate
+596,LP002941,1,Yes,2,Not Graduate
+597,LP002943,1,No,,Graduate
+598,LP002945,1,Yes,0,Graduate
+599,LP002948,1,Yes,2,Graduate
+600,LP002949,0,No,3+,Graduate
+601,LP002950,1,Yes,0,Not Graduate
+602,LP002953,1,Yes,3+,Graduate
+603,LP002958,1,No,0,Graduate
+604,LP002959,0,Yes,1,Graduate
+605,LP002960,1,Yes,0,Not Graduate
+606,LP002961,1,Yes,1,Graduate
+607,LP002964,1,Yes,2,Not Graduate
+608,LP002974,1,Yes,0,Graduate
+609,LP002978,0,No,0,Graduate
+610,LP002979,1,Yes,3+,Graduate
+611,LP002983,1,Yes,1,Graduate
+612,LP002984,1,Yes,2,Graduate
+613,LP002990,0,No,0,Graduate
